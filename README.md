@@ -3,14 +3,11 @@ Python Pandas Library - Mini Project for Customer Sales Analysis
 
 DATA Cleaning Methods
 
-1). Data Collection -> Multiple Sources
-                    -> Web Scraping
-                    -> APIs            ---------> Storage
-                    -> Databases                     |
-                    -> Surveys                    Raw Data
-
-
-
+1). Data Collection ## -> Multiple Sources
+                    ## -> Web Scraping
+                    ## -> APIs            ---------> Storage
+                    ## -> Databases                     |
+                    ## -> Surveys                    Raw Data
 
 Now, Raw Data has various kinds of Problems:
 
